@@ -1,7 +1,7 @@
 # SNIS assets snapshotter
 
 This repository is an unofficial mirror of assets for [Space Nerds In Space].
-They are automatically downloaded from the official URL on a weekly basis.
+They are automatically downloaded from the official URL on a daily basis.
 
 ## License
 
