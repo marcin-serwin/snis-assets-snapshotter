@@ -1,0 +1,15 @@
+# This file allows overriding default assets from git with newer assets
+# without causing git diffs.
+#
+ASSET_DIR/models/transport.stl ASSET_DIR/models/carrier/carrier01.obj
+ASSET_DIR/models/transport.scad_params.h ASSET_DIR/models/carrier/carrier.scad_params.h
+ASSET_DIR/models/battlestar.stl ASSET_DIR/models/battlestar/battlestar.obj
+ASSET_DIR/solarsystems/default/assets.txt ASSET_DIR/replacement-files/default-assets.txt
+ASSET_DIR/textures/asteroid1-0.png ASSET_DIR/replacement-files/asteroid3-0.png
+ASSET_DIR/textures/asteroid1-1.png ASSET_DIR/replacement-files/asteroid3-1.png
+ASSET_DIR/textures/asteroid1-2.png ASSET_DIR/replacement-files/asteroid3-2.png
+ASSET_DIR/textures/asteroid1-3.png ASSET_DIR/replacement-files/asteroid3-3.png
+ASSET_DIR/textures/asteroid1-4.png ASSET_DIR/replacement-files/asteroid3-4.png
+ASSET_DIR/textures/asteroid1-5.png ASSET_DIR/replacement-files/asteroid3-5.png
+ASSET_DIR/models/cargocontainer/cargocontainer.png ASSET_DIR/replacement-files/cargocontainer.png
+

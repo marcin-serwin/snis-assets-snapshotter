@@ -1,0 +1,22 @@
+random seed: 9557
+
+planet texture count: 6
+planet texture: zebina-with-clouds- no-normal-map earthlike
+water color: 0, 8, 19
+atmosphere_brightness: 1.0
+planet texture: albara no-normal-map ice-giant
+atmosphere_brightness: 0.5
+planet texture: aronov no-normal-map gas-giant
+atmosphere_brightness: 0.5
+planet texture: nemalta no-normal-map gas-giant
+atmosphere_brightness: 0.5
+planet texture: elibon no-normal-map ice-giant
+atmosphere_brightness: 0.5
+planet texture: vedekri no-normal-map gas-giant
+atmosphere_brightness: 0.5
+
+sun texture: sun.png
+skybox texture: violethaze
+star location: 6.0 -4.5 -4.1
+sun color: 255, 255, 234
+

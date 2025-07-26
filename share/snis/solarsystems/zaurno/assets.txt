@@ -1,0 +1,20 @@
+random seed: 973124
+planet texture count: 6
+
+planet texture: blue-planet2 no-normal-map ice-giant
+atmosphere brightness: 0.5
+planet texture: eplanet-with-clouds- eplanet-normalmap-masked earthlike
+atmosphere brightness: 1.0
+planet texture: green-planet2 no-normal-map gas-giant
+atmosphere brightness: 0.5
+planet texture: planetx planetx-normalmap rocky
+atmosphere brightness: 0.5
+planet texture: rustyplanet rustyplanet-normalmap rocky
+atmosphere brightness: 0.5
+planet texture: purpleplanet2 no-normal-map gas-giant
+atmosphere brightness: 0.5
+
+sun texture: zaurno.png
+star location: 24.2 -5.7 -19.3
+skybox texture: skybox 
+sun color: 241, 235, 255

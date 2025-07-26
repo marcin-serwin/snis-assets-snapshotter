@@ -1,0 +1,17 @@
+The files in this directory:
+
+battlestar_diffuse.png
+battlestar_emission.png
+battlestar.mtl
+battlestar_normal.png
+battlestar.obj
+battlestar_specular.png
+
+come from here: https://v-ktor.itch.io/space-ships
+
+Some small modifications have been done (the model has been re-oriented,
+scaled, and some textures have been modified)
+
+Author: Viktor Hahn <Viktor.Hahn@web.de> 
+Asset license:	Creative Commons Attribution v4.0 International : https://creativecommons.org/licenses/by/4.0/
+

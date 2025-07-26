@@ -1,0 +1,19 @@
+random seed: 3399921
+planet texture count: 6
+planet texture: rocky1-rgb- rocky1-normalmap-rgb- rocky 
+atmosphere brightness: 0.5
+planet texture: rocky2-rgb- rocky2-normalmap-rgb- rocky 
+atmosphere brightness: 0.5
+planet texture: gasgiant1-rgb- no-normal-map gas-giant 
+atmosphere brightness: 0.5
+planet texture: gasgiant2-rgb- no-normal-map ice-giant 
+atmosphere brightness: 0.5
+planet texture: earthlike1-with-clouds-rgb- earthlike1-normalmap-rgb- earthlike 
+atmosphere brightness: 1.0
+planet texture: earthlike2-with-clouds-rgb- earthlike2-normalmap-rgb- earthlike 
+atmosphere brightness: 1.0
+
+sun texture: cyansun.png
+star location: 4.4 3.4 14.7 
+skybox texture: skybox 
+sun color: 216, 255, 255

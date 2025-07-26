@@ -1,0 +1,19 @@
+random seed: 54321
+
+planet texture count: 6
+planet texture: ourck-with-clouds- no-normal-map earthlike
+atmosphere brightness: 1.0
+planet texture: corealto no-normal-map gas-giant
+atmosphere brightness: 0.5
+planet texture: kadar no-normal-map gas-giant
+atmosphere brightness: 0.5
+planet texture: zukon no-normal-map ice-giant
+atmosphere brightness: 0.5
+planet texture: vorloxx no-normal-map gas-giant
+atmosphere brightness: 0.5
+planet texture: hedas hedas-normal rocky
+atmosphere brightness: 0.5
+
+sun texture: sun.png
+skybox texture: greenhaze
+star location: 7.1 -4.8 -16.4

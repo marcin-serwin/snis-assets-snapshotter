@@ -1,0 +1,20 @@
+random seed: 21125150
+
+planet texture count: 6
+planet texture: lettek lettek-normalmap rocky 
+atmosphere_brightness: 0.5
+planet texture: kratoria kratoria-normalmap rocky 
+atmosphere_brightness: 0.5
+planet texture: kojax-with-clouds- kojax-normal-masked earthlike 
+atmosphere_brightness: 1.0
+planet texture: kang-with-clouds- kang-normalmap-masked earthlike 
+atmosphere_brightness: 1.0
+planet texture: guleldob no-normal-map ice-giant 
+atmosphere_brightness: 0.5
+planet texture: behko no-normal-map gas-giant 
+atmosphere_brightness: 0.5
+
+sun texture: sun.png
+star location: 15.3 -5.3 -12.4
+skybox texture: bluegreen-skybox
+sun color: 206, 226, 255

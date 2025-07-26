@@ -1,0 +1,22 @@
+# Locations of assets for "default" solar system
+random seed: 31415927
+
+planet texture count: 6
+planet texture: ../../textures/planet-texture0- no-normal-map gas-giant
+atmosphere brightness: 0.5
+planet texture: ../../textures/planet-texture1- no-normal-map gas-giant
+atmosphere brightness: 0.5
+planet texture: ../../textures/planet-texture2- no-normal-map gas-giant
+atmosphere brightness: 0.5
+planet texture: ../../textures/planet-texture3- no-normal-map gas-giant
+atmosphere brightness: 0.5
+planet texture: doobion-with-clouds- doobion-normalmap-masked earthlike
+atmosphere brightness: 1.0
+planet texture: dorjna dorjna-normalmap rocky
+atmosphere brightness: 0.5
+
+sun texture: ../../textures/sun.png
+
+skybox texture: ../../textures/orange-haze
+star location: 0 0 0
+sun color: 255, 255, 249

@@ -1,0 +1,28 @@
+The following images are Copyright (c) 2019 Stephen M. Cameron
+and are released under the terms of the Creative Commons Attribution-ShareAlike
+3.0 unported license
+
+doobion-normalmap-masked0.png
+doobion-normalmap-masked1.png
+doobion-normalmap-masked2.png
+doobion-normalmap-masked3.png
+doobion-normalmap-masked4.png
+doobion-normalmap-masked5.png
+doobion-with-clouds-0.png
+doobion-with-clouds-1.png
+doobion-with-clouds-2.png
+doobion-with-clouds-3.png
+doobion-with-clouds-4.png
+doobion-with-clouds-5.png
+dorjna0.png
+dorjna1.png
+dorjna2.png
+dorjna3.png
+dorjna4.png
+dorjna5.png
+dorjna-normalmap0.png
+dorjna-normalmap1.png
+dorjna-normalmap2.png
+dorjna-normalmap3.png
+dorjna-normalmap4.png
+dorjna-normalmap5.png

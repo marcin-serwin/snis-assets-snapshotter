@@ -1,0 +1,16 @@
+The files in this directory:
+
+./carrier01_diffuse.png
+./carrier01_emission.png
+./carrier01.mtl
+./carrier01_normal.png
+./carrier01_specular.png
+
+come from here: https://v-ktor.itch.io/space-ships
+
+Some small modifications have been done (the model has been re-oriented,
+some textures have been modified)
+
+Author: Viktor Hahn <Viktor.Hahn@web.de> 
+Asset license:	Creative Commons Attribution v4.0 International : https://creativecommons.org/licenses/by/4.0/
+

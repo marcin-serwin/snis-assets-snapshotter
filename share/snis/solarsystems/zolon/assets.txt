@@ -1,0 +1,20 @@
+random seed: 4377341
+planet texture count: 6
+
+planet texture: e1 e1-normalmap earthlike
+atmosphere brightness: 1.0
+planet texture: p2 no-normal-map ice-giant
+atmosphere brightness: 0.5
+planet texture: p01 no-normal-map gas-giant
+atmosphere brightness: 0.5
+planet texture: p3 p3-normalmap earthlike
+atmosphere brightness: 1.0
+planet texture: p5 no-normal-map gas-giant 
+atmosphere brightness: 0.5
+planet texture: p6 no-normal-map gas-giant 
+atmosphere brightness: 0.5
+
+sun texture: redstar.png
+star location: 0.8 9.0 9.7
+skybox texture: skybox 
+sun color: 241, 235, 255

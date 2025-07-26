@@ -1,0 +1,21 @@
+random seed: 12345
+
+planet texture count: 6
+planet texture: earthlike1-with-clouds-rgb- earthlike1-normalmap-masked-rgb- earthlike
+atmosphere brightness: 1.0
+planet texture: maurz maurz-normalmap rocky 
+atmosphere brightness: 0.5
+planet texture: tounah tounah-normalmap rocky 
+atmosphere brightness: 0.5
+planet texture: ounii-with-clouds- ounii-normalmap-masked earthlike 
+atmosphere brightness: 1.0
+planet texture: norphi norphi-normalmap rocky 
+atmosphere brightness: 0.5
+planet texture: kolaron no-normal-map gas-giant 
+atmosphere brightness: 0.5
+
+sun texture: sun.png
+skybox texture: skybox-
+star location: 7.2 10.0 -3.3
+sun color: 249, 212, 187
+

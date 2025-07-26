@@ -1,0 +1,19 @@
+# Locations of assets for "tau-scorpii" solar system
+random seed: 1337
+planet texture count: 6
+planet texture: erth-  no-normal-map earthlike
+atmosphere brightness: 1.0
+planet texture: bluish  no-normal-map ice-giant
+atmosphere brightness: 0.5
+planet texture: jungle  no-normal-map gas-giant
+atmosphere brightness: 0.5
+planet texture: gasgiant-d-  no-normal-map gas-giant
+atmosphere brightness: 0.5
+planet texture: rustywall no-normal-map  gas-giant
+atmosphere brightness: 0.5
+planet texture: rocky1-rgb- rocky1-normalmap-rgb- rocky
+atmosphere brightness: 0.5
+
+sun texture: sun.png
+skybox texture: image
+star location: 20.1 6.9 -4.1
