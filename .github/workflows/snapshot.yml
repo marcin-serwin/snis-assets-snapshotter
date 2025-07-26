@@ -1,0 +1,28 @@
+name: Snapshot SNIS assets
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 1"
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configure git
+        run: |
+          git config --global user.name 'Snapshotter'
+          git config --global user.email 'snapshotter@localhost'
+
+      - name: Snapshot
+        run: ./snapshot.sh
+
+      - name: Push changes
+        run: |
+          git push
+          git push --tags
