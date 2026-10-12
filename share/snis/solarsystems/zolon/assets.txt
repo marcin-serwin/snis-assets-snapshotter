@@ -17,4 +17,22 @@ atmosphere brightness: 0.5
 sun texture: redstar.png
 star location: 0.8 9.0 9.7
 skybox texture: skybox 
-sun color: 241, 235, 255
+
+# --- star rendering, fitted to redstar.png ---
+# Disc width within the texture.  With no "star diameter" line this also sets the
+# star's world size: star_diameter_pixels * 30000 / texture_width.
+star diameter pixels: 78
+# "texture" draws the sun texture as the game always did; "shader" draws it
+# procedurally from the values below.  SET SUN_STYLE = 0 on the demon console to flip.
+sun style: shader
+# Colour matched to the texture's glow: the temperature is the nearest blackbody, the
+# tint is whatever the locus cannot reach.  Both also colour the light the star casts.
+star temperature: 4873
+star tint: 1.000 0.929 0.981
+# Set so the star's half-light radius matches the texture's.  Note the scale: brightness
+# multiplies a profile peaking at 1, so values from before the PSF rework are ~50x too big.
+star brightness: 14
+# Lit surfaces lean toward the star's colour, shaded ones toward its complement.
+star light tint: 0.45
+star dark tint: 0.06
+# was: temperature 4100, tint none, brightness 1090

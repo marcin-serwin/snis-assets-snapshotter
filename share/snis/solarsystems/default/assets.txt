@@ -1,0 +1,40 @@
+# Locations of assets for "default" solar system
+random seed: 31415927
+
+planet texture count: 6
+planet texture: ../../textures/planet-texture0- no-normal-map gas-giant
+atmosphere_brightness: 0.5
+planet texture: ../../textures/planet-texture1- no-normal-map gas-giant
+atmosphere_brightness: 0.5
+planet texture: ../../textures/planet-texture2- no-normal-map gas-giant
+atmosphere_brightness: 0.5
+planet texture: ../../textures/planet-texture3- no-normal-map gas-giant
+atmosphere_brightness: 0.5
+planet texture: ../../textures/planet-texture4- no-normal-map earthlike
+atmosphere_brightness: 1.0
+planet texture: ../../textures/planet-texture4- no-normal-map earthlike
+atmosphere_brightness: 1.0
+
+sun texture: ../../textures/sun.png
+
+skybox texture: ../../textures/orange-haze
+star location: 0 0 0
+
+# --- star rendering, fitted to ../../textures/sun.png ---
+# Disc width within the texture.  With no "star diameter" line this also sets the
+# star's world size: star_diameter_pixels * 30000 / texture_width.
+star diameter pixels: 80
+# "texture" draws the sun texture as the game always did; "shader" draws it
+# procedurally from the values below.  SET SUN_STYLE = 0 on the demon console to flip.
+sun style: shader
+# Colour matched to the texture's glow: the temperature is the nearest blackbody, the
+# tint is whatever the locus cannot reach.  Both also colour the light the star casts.
+star temperature: 5150
+star tint: 0.904 1.000 0.892
+# Set so the star's half-light radius matches the texture's.  Note the scale: brightness
+# multiplies a profile peaking at 1, so values from before the PSF rework are ~50x too big.
+star brightness: 27
+# Lit surfaces lean toward the star's colour, shaded ones toward its complement.
+star light tint: 0.45
+star dark tint: 0.06
+# was: temperature 5710, tint 0.966 1.000 0.945, brightness 1631
